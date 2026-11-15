@@ -1,6 +1,10 @@
 # Changelog
 
-## 1.0.1
+## Git-BrowOS v1.0
+
+BrowOS Inside GitHub
+
+## BrowOS v1.0.1
 
 - Fixed: maximizing a website opened in its own window made it jump around
 - The "Page not showing?" bar can now be closed with ×
