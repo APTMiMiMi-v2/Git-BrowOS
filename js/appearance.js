@@ -30,7 +30,7 @@ function setAccent(color) {
 	});
 }
 
-setAccent(localStorage.getItem("browos-accent") || "#2196F3");
+setAccent(localStorage.getItem("browos-accent") || "#8e5cf7");
 
 accentOptions.forEach(function (option) {
 	option.addEventListener("click", function () {
