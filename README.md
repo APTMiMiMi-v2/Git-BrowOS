@@ -17,7 +17,7 @@ https://youtube.com/@yourallyhere
 
 This Have Some Bugs
 
-BrowOS Version: 1.0
+BrowOS Version: 1.0 Public [1.0.1]
 
 More Updates
 
