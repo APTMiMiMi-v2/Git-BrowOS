@@ -4,10 +4,10 @@
 	"version": "1.0.0",
 	"description": "BrowOS But Inside GitHub. Turns your new tab into a desktop OS with windows, a Start menu, a taskbar, built-in apps, BrowStore and custom wallpapers.",
 	"icons": {
-		"16": "icons/browos-logo.png",
-		"32": "icons/browos-logo.png",
-		"48": "icons/browos-logo.png",
-		"128": "icons/browos-logo.png"
+		"16": "icons/Git-BrowOS_Logo.png",
+		"32": "icons/Git-BrowOS_Logo.png",
+		"48": "icons/Git-BrowOS_Logo.png",
+		"128": "icons/Git-BrowOS_Logo.png"
 	},
 	"chrome_url_overrides": {
 		"newtab": "https://aptmimimi-v2.github.io/Git-BrowOS"
